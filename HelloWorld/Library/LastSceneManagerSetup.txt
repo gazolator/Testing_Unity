@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Thanos/Test_thanos1.unity
-=======
-- path: Assets/Scenes/Empty.unity
->>>>>>> master
+- path: Assets/Scenes/NewPlat.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

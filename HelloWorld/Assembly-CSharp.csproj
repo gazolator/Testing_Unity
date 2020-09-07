@@ -65,8 +65,14 @@
   <ItemGroup>
     <Compile Include="Assets\Assets\Free Asset - 2D Handcrafted Art\Scripts\CamerController.cs" />
     <Compile Include="Assets\Scripts\Camera\CameraFollow.cs" />
-    <Compile Include="Assets\Scripts\Player\Player\PlayerCharacter.cs" />
-    <Compile Include="Assets\Scripts\Player\PlayerCharacter1.cs" />
+    <Compile Include="Assets\Scripts\Camera\CameraFollowShooter.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerWanimation\PlayerCharacter.cs" />
+    <Compile Include="Assets\Scripts\Player\SimplePlayer\PlayerCharacter1.cs" />
+    <Compile Include="Assets\Scripts\Shooter\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Shooter\Projectile.cs" />
+    <Compile Include="Assets\Scripts\Shooter\ShooterPlayer.cs" />
+    <Compile Include="Assets\Scripts\Shooter\Spawner.cs" />
+    <Compile Include="Assets\Scripts\Shooter\Weapon.cs" />
     <Compile Include="Assets\Scripts\helloWorld.cs" />
     <None Include="Assets\Assets\Free Asset - 2D Handcrafted Art\Shader\NormalMappedSprite-Animated.shader" />
     <None Include="Assets\Assets\Free Asset - 2D Handcrafted Art\Readme.txt" />
